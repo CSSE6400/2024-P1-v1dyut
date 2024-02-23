@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-v1dyut"
+version = "0.1.0"
+description = ""
+authors = ["v1dyut <98337284+v1dyut@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
